@@ -1,0 +1,16 @@
+[
+  {
+    "company": "Machakos University",
+    "role": "Fashion Design Lecturer",
+    "startDate": "2020-01",
+    "endDate": "2022-12",
+    "description": ["Taught pattern drafting", "Supervised student collections"]
+  },
+  {
+    "company": "Freelance",
+    "role": "Lead Designer",
+    "startDate": "2018-06",
+    "endDate": "Present",
+    "description": ["Commissioned bespoke garments", "Managed production"]
+  }
+]

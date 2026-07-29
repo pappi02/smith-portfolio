@@ -1,0 +1,10 @@
+{
+  "name": "House of Zuri",
+  "short_name": "House of Zuri",
+  "description": "House of Zuri is a Kenyan contemporary womenswear studio creating modern African elegance through thoughtful design, craftsmanship, and custom garments.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": []
+}

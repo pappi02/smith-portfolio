@@ -1,0 +1,25 @@
+{
+  "id": "street-casual",
+  "slug": "street-casual",
+  "title": "Urban Knit Set",
+  "subtitle": "Comfortable streetwear with artisanal knit",
+  "category": "casual",
+  "featured": false,
+  "year": 2023,
+  "status": "completed",
+  "client": null,
+  "duration": "2 weeks",
+  "coverImage": "gallery/1.webp",
+  "gallery": ["gallery/1.webp"],
+  "videos": ["videos/placeholder.mp4"],
+  "tools": ["CLO 3D","Illustrator"],
+  "materials": ["Cotton","Wool"],
+  "tags": ["streetwear","knit"],
+  "challenge": "Blend artisanal knitting with contemporary silhouettes.",
+  "solution": "Modular knit panels and taped seams for durability.",
+  "process": [
+    {"title":"Sampling","description":"Prototype knit samples","images":["process/sample-1.webp"]}
+  ],
+  "results":"Small boutique pickup and online feature.",
+  "seo":{"title":"Urban Knit Set — House of Zuri","description":"Artisanal knit streetwear","keywords":["knit","streetwear"],"ogImage":"cover-large.webp"}
+}

@@ -1,0 +1,30 @@
+{
+  "id": "african-fusion",
+  "slug": "african-fusion",
+  "title": "Royal Ankara Dress",
+  "subtitle": "Evening wear collection",
+  "category": "evening-wear",
+  "featured": true,
+  "year": 2025,
+  "status": "completed",
+  "client": null,
+  "duration": "3 weeks",
+  "coverImage": "gallery/1.webp",
+  "gallery": [
+    "gallery/1.webp",
+    "gallery/2.webp",
+    "gallery/3.webp"
+  ],
+  "videos": ["videos/placeholder.mp4"],
+  "tools": ["CLO 3D", "Adobe Illustrator"],
+  "materials": ["Ankara", "Satin"],
+  "tags": ["bridal", "african-fashion"],
+  "challenge": "Create culturally-rooted eveningwear for modern runway.",
+  "solution": "Mix traditional prints with modern silhouettes.",
+  "process": [
+    { "title": "Research", "description": "Moodboards & textiles", "images": ["process/research-1.webp"] },
+    { "title": "Pattern Drafting", "description": "Block & fit iterations", "images": ["process/pattern-1.webp"] }
+  ],
+  "results": "Featured in local fashion week.",
+  "seo": { "title": "Royal Ankara Dress — House of Zuri", "description": "Signature eveningwear combining Ankara prints with couture construction.", "keywords": ["Ankara","evening-wear"], "ogImage": "cover-large.webp" }
+}

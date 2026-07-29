@@ -1,0 +1,26 @@
+{
+  "id": "bridal-classic",
+  "slug": "bridal-classic",
+  "title": "Timeless Bridal Gown",
+  "subtitle": "Classic bridal silhouette with modern detailing",
+  "category": "bridal",
+  "featured": false,
+  "year": 2024,
+  "status": "completed",
+  "client": "Bridal Atelier",
+  "duration": "6 weeks",
+  "coverImage": "gallery/1.webp",
+  "gallery": ["gallery/1.webp","gallery/2.webp"],
+  "videos": ["videos/placeholder.mp4"],
+  "tools": ["Adobe Illustrator","Photoshop"],
+  "materials": ["Silk","Lace"],
+  "tags": ["bridal","couture"],
+  "challenge": "Blend classic bridal aesthetics with modern comfort.",
+  "solution": "Reworked internal corsetry and lightweight layers for mobility.",
+  "process": [
+    {"title":"Sketch","description":"Hand sketches and ideation","images":["process/sketch-1.webp"]},
+    {"title":"Construction","description":"Seam and finishing details","images":["process/construction-1.webp"]}
+  ],
+  "results":"Successfully retailed at Bridal Atelier storefront.",
+  "seo":{"title":"Timeless Bridal Gown — House of Zuri","description":"Classic bridal gown with modern construction.","keywords":["bridal","gown"],"ogImage":"cover-large.webp"}
+}
